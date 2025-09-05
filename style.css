@@ -1,0 +1,47 @@
+body {
+  background-color: #442D1C; 
+  color: #fff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.todo-card {
+  background-color: #b8a177; 
+  width: 500px;
+}
+
+h3 {
+  color: #fff;
+}
+
+.btn-primary {
+  background-color: #442D1C;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #442D1C;
+}
+
+.btn-secondary {
+  background-color: #442D1C;
+  border: none;
+}
+
+.btn-secondary:hover {
+  background-color: #442D1C;
+}
+
+.btn-danger {
+  background-color: #b84f4f;
+  border: none;
+}
+
+.btn-danger:hover {
+  background-color: #b84f4f;
+}
+
+.table {
+  background-color: #b8a177;
+  border-radius: 8px;
+  overflow: hidden;
+}
